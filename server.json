@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Oceanir/oceanir",
+  "title": "Oceanir",
+  "description": "Locate photos from visual clues and assess location claims with candidates and uncertainty.",
+  "version": "0.1.0",
+  "websiteUrl": "https://oceanir.ai/docs/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.oceanir.ai"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/Oceanir/oceanir-mcp",
+    "source": "github"
+  }
+}
