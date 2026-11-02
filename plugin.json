@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "oceanir",
+  "version": "0.1.0",
+  "description": "Investigate photo locations and assess location claims using visual evidence.",
+  "author": {
+    "name": "Oceanir, Inc.",
+    "email": "support@oceanir.ai",
+    "url": "https://oceanir.ai"
+  },
+  "homepage": "https://oceanir.ai/docs/mcp",
+  "license": "MIT",
+  "keywords": [
+    "geolocation",
+    "photo location",
+    "visual evidence",
+    "location claims"
+  ],
+  "repository": "https://github.com/Oceanir/oceanir-mcp"
+}
