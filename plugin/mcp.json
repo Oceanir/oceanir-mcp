@@ -3,20 +3,7 @@
   "mcpServers": {
     "oceanir": {
       "type": "streamable-http",
-      "url": "https://mcp.oceanir.ai",
-      "extensions": {
-        "com.openai": {
-          "auth": {
-            "type": "oauth",
-            "client": {
-              "mode": "dcr"
-            },
-            "baseScopes": [
-              "mcp:tools"
-            ]
-          }
-        }
-      }
+      "url": "https://mcp.oceanir.ai"
     }
   }
 }
